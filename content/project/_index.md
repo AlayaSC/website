@@ -1,9 +1,9 @@
 ---
-title: Projects 
-description: "Environmental and economic projects I have been involved with."
+title: Projects and topics 
+description: "Environmental and economic projects that I have been involved with."
 author: "Alaya Spencer-Cotton Updated Jan 2024"
 show_post_thumbnail: true
-show_author_byline: fasle
+show_author_byline: false
 show_post_date: false
 show_button_links: false
 # for listing page layout

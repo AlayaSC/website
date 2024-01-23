@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Alaya <i class="fas fa-flower"></i>
+  Alaya Spencer-Cotton <i class="fas fa-flower"></i>
 ---
 
 <!-- this is a subheadline -->
