@@ -1,7 +1,7 @@
 ---
 title: "Alaya Spencer-Cotton"
 subtitle: "Environmental policy and economics, preference and choice analysis, renewable energy and offshore wind policy"
-description: "I am an environmental economist... who likes.. get to know me. "
+description: "I am an environmental economist... . get to know me. "
 images:
   - kimpic.jpg
 image_left: true
